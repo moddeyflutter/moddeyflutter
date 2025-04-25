@@ -41,4 +41,4 @@ Sou um programador "mais ou menos" — só estou um pouco enferrujado, mas sigo 
 ---
 ### Flutter Start com o Professor Cláudio Marzo
 
-`[▓▓░░░░░░░░░░] 10%completo – segundo dia de curso (2 meses)`
+`[▓▓░░░░░░░░░░] 5%completo – segundo dia de curso (2 meses)`

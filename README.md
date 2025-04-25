@@ -14,8 +14,7 @@ Sou um programador "mais ou menos" — só estou um pouco enferrujado, mas sigo 
 ---
 
 ## Um pouco da minha vibe:
-![GIF de apresentação]( https://i.postimg.cc/RCPvJXKV/GMP-U2-F2-ZUd-IMDE.gif)
-
+![GIF de apresentação](https://i.postimg.cc/RCPvJXKV/GMP-U2-F2-ZUd-IMDE.gif)
 ---
 
 ## Onde me encontrar:

@@ -42,3 +42,7 @@ Sou um programador "mais ou menos" — só estou um pouco enferrujado, mas sigo 
 ### Flutter Start com o Professor Cláudio Marzo
 
 `[▓▓░░░░░░░░░░] 5%completo – segundo dia de curso (2 meses)`
+
+----
+ ![Snake animation](https://github.com/modeyflutter/moddeyflutter/blob/output/github-contribution-grid-snake.svg)
+

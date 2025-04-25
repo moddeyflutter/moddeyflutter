@@ -44,5 +44,5 @@ Sou um programador "mais ou menos" — só estou um pouco enferrujado, mas sigo 
 `[▓▓░░░░░░░░░░] 5%completo – segundo dia de curso (2 meses)`
 
 ----
- ![Snake animation](https://github.com/modeyflutter/moddeyflutter/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation] (https://github.com/modeyflutter/moddeyflutter/blob/output/github-contribution-grid-snake.svg)
 

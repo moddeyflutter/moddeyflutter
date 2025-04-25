@@ -39,6 +39,6 @@ Sou um programador "mais ou menos" — só estou um pouco enferrujado, mas sigo 
 [![Instagram](https://img.shields.io/badge/-@moddey_dhooo-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/moddey_dhooo)
 
 ---
-### Progresso do Curso
+### Flutter Start com o Professor Cláudio Marzo
 
 `[▓▓░░░░░░░░░░] 5% completo – primeiro dia de curso (2 meses)`

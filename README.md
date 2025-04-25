@@ -19,7 +19,7 @@ Sou um programador "mais ou menos" — só estou um pouco enferrujado, mas sigo 
 
   <div style="text-align: center;">
     <img src="https://i.postimg.cc/13KykNWW/IMG-1719.jpg" alt="Primeira imagem" width="200px" style="border-radius:10px; border:2px solid #555;">
-    <p style="margin-top: 5px;">Quero encontrar minha Rita</p>
+    <p style="margin-top: 5px;">pode me chamar de Dexter</p>
   </div>
 
   <div style="text-align: center;">
@@ -29,7 +29,7 @@ Sou um programador "mais ou menos" — só estou um pouco enferrujado, mas sigo 
 
   <div style="text-align: center;">
     <img src="https://i.postimg.cc/zfn2tn0B/IMG-1721.jpg" alt="Terceira imagem" width="200px" style="border-radius:10px; border:2px solid #555;">
-    <p style="margin-top: 5px;">Nate</p>
+    <p style="margin-top: 5px;">ou de nate</p>
   </div>
 
 </div>

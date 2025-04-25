@@ -37,3 +37,15 @@ Sou um programador "mais ou menos" — só estou um pouco enferrujado, mas sigo 
 
 ## Onde me encontrar:
 [![Instagram](https://img.shields.io/badge/-@moddey_dhooo-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/moddey_dhooo)
+
+---
+
+<h2>Curso Flutter Start</h2>
+
+<p>Progresso:</p>
+
+<div style="background-color: #ddd; border-radius: 10px; padding: 3px; width: 100%; max-width: 500px;">
+  <div style="background-color: #4CAF50; width: 30%; height: 20px; border-radius: 7px;"></div>
+</div>
+
+<p><strong>10% completo - 2 meses de curso</strong></p>
